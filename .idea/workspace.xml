@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="083d7205-8c58-4a34-ab7d-c8eec77381eb" name="Changes" comment="" />
+    <list default="true" id="083d7205-8c58-4a34-ab7d-c8eec77381eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AnjaliRajapaksha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/IMG-3475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/IMG-3526 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/IMG-3526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/anji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/la60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/la75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/la90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/la95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/lala2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/linkin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/mylogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/picc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/unnamed (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +52,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\MyProfile" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +69,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675451966379</updated>
-      <workItem from="1675451969332" duration="3048000" />
+      <workItem from="1675451969332" duration="4219000" />
+      <workItem from="1676086431696" duration="318000" />
+      <workItem from="1677380424547" duration="604000" />
+      <workItem from="1678553568037" duration="365000" />
     </task>
     <servers />
   </component>
